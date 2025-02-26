@@ -38,8 +38,8 @@ This is a PHP application that fetches Alko's daily price list, converts prices 
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/esa-kian/draivi.git
-cd draivi
+git clone https://github.com/esa-kian/alkolist.git
+cd alkolist
 ```
 
 ### Step 2: Install dependencies
